@@ -1,2 +1,3 @@
 TO jest test
 
+zmieniam
